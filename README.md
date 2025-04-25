@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently diving deeper into **React** and **Selenium**  
+- 🔭 Currently diving deeper into **React** 
 - 🌐 Experienced with **HTML, CSS, JavaScript, Python, MySQL**
 - 🎨 Designing with **Figma** and styling with **Chakra UI (v2.10.7)**
 - 🔐 Implemented **Firebase Authentication** in a bus ticket booking web app  
@@ -16,6 +16,5 @@
 💻 Languages:     HTML | CSS | JavaScript | Python | SQL  
 🌐 Frontend:      React | Chakra UI | Figma  
 🔙 Backend:       Node.js (learning) | Firebase  
-🛢️ Database:      MySQL | Firebase Realtime DB  
-🧪 Testing:       Selenium (learning)  
+🛢️ Database:      MySQL | Firebase Realtime DB   
 ⚙️ Tools & IDEs:   VS Code | Git | GitHub  
