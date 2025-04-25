@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Harish Karthick!
 
-<!--
-**Harishkarthick-M/Harishkarthick-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate **Full Stack Developer** on a mission to build smart, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently diving deeper into **React** and **Selenium**  
+- 🌐 Experienced with **HTML, CSS, JavaScript, Python, MySQL**
+- 🎨 Designing with **Figma** and styling with **Chakra UI (v2.10.7)**
+- 🔐 Implemented **Firebase Authentication** in a bus ticket booking web app  
+- 🍳 Fun fact: I’m also a hidden chef in the kitchen!
+
+## 🛠️ Tech Stack
+
+```js
+💻 Languages:     HTML | CSS | JavaScript | Python | SQL  
+🌐 Frontend:      React | Chakra UI | Figma  
+🔙 Backend:       Node.js (learning) | Firebase  
+🛢️ Database:      MySQL | Firebase Realtime DB  
+🧪 Testing:       Selenium (learning)  
+⚙️ Tools & IDEs:   VS Code | Git | GitHub  
