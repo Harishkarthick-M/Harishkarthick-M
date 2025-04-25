@@ -10,6 +10,16 @@
 - 🔐 Implemented **Firebase Authentication** in a bus ticket booking web app  
 - 🍳 Fun fact: I’m also a hidden chef in the kitchen!
 
+- ## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/harish-karthick-m207" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+
 ## 🛠️ Tech Stack
 
 ```js
@@ -18,15 +28,4 @@
 🔙 Backend:       Node.js (learning) | Firebase  
 🛢️ Database:      MySQL | Firebase Realtime DB   
 ⚙️ Tools & IDEs:   VS Code | Git | GitHub
-
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="www.linkedin.com/in/harish-karthick-m207" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
 
