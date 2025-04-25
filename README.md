@@ -6,7 +6,7 @@
 
 - 🔭 Currently diving deeper into **React** 
 - 🌐 Experienced with **HTML, CSS, JavaScript, Python, MySQL**
-- 🎨 Designing with **Figma** and styling with **Chakra UI (v2.10.7)**
+- 🎨 Designing with **Figma** and styling with **Chakra UI**
 - 🔐 Implemented **Firebase Authentication** in a bus ticket booking web app  
 - 🍳 Fun fact: I’m also a hidden chef in the kitchen!
 
